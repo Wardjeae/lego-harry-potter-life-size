@@ -1,3 +1,13 @@
-# lego-harry-potter-life-size
-"Fully detailed life-size Lego Harry Potter model (1.65m) with Hedwig and wand, official Lego colors, modular build."`   - `"Realistic life-size Lego Harry Potter (165 cm) including Hogwarts accessories, tiles finish, and modular Technic frame."`  
-This work is licensed under CC BY 4.0. You are free to share and adapt it, as long as attribution is given to [Ward Events]. Positive modifications or enhancements are welcome!
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose.
+
+Under the following terms:
+
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Full license: https://creativecommons.org/licenses/by/4.0/legalcode
